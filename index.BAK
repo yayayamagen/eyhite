@@ -10,7 +10,7 @@
 p7.init("4061f4e0d8164a87bf5e503447f4da5b");
 </script>
   <body>  
-<h1>Thank you for cooperation to Eyhite Demo</h1>
-<div class="p7button" data-button-text="購読する"></div>
+<h1>Thank you for your cooperation to Eyhite Demo</h1>
+<div class="p7button" data-align="right" data-button-text="Subscribe"></div>
   </body>
 </html>
